@@ -1,0 +1,44 @@
+.home-container {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+    background-color: black;
+    color: gold;
+    background-image: url("https://cdn.wallpapersafari.com/1/97/co341S.jpg");
+    
+}
+
+.characters-container {
+    display: flex;
+    width: 80%;
+    overflow-x: scroll;
+    margin: 2rem 0;
+    background-color: black;
+}
+
+.planets-container {
+    display: flex;
+    width: 80%;
+    overflow-x: scroll;
+    margin: 2rem 0;
+    background-color: black;
+}
+
+.vehicles-container {
+    display: flex;
+    width: 80%;
+    overflow-x: scroll;
+    margin: 2rem 0;
+    background-color: black;
+}
+
+.favorites {
+    color: gold;
+}
+.navbar{
+    background-image: url("https://i.ytimg.com/vi/Sqg5ylHavdQ/maxresdefault.jpg"); 
+    
+
+}

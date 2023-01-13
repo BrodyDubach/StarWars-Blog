@@ -1,0 +1,24 @@
+.description-container {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.details-container{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 80%;
+    height: 50%;
+    border-radious: .25rem;
+    box-shadow: 0 5px 10px 0 rgba(0, 0, 0, .15);
+}
+
+.name{
+    color: transparent;
+}
+.description{
+    
+}

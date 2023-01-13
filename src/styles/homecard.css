@@ -1,0 +1,33 @@
+.card-container {
+    min-width: 20rem;
+    box-shadow: 0 5px 10px 0 rgba(0, 0, 0, .15);
+    height: 20rem;
+    margin: 0 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem;
+    /* background-image: url("https://t3.ftcdn.net/jpg/01/02/88/40/360_F_102884000_9nDhPvgQwwaNgDWbAwUJVR0puNDOMYhL.jpg"); */
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/1005/822/563/star-wars-death-star-at-at-space-wallpaper-preview.jpg");
+    background-color: rgb(97, 96, 96);
+    color: gold;
+    
+    
+}
+
+.card-name {
+    font-size: 1rem;
+}
+.learn-more-button {
+    color: gold;
+    background: transparent;
+    border-color: transparent;
+
+}
+.favorite-button {
+    color: gold;
+    background: transparent;
+    border-color: transparent;
+
+} 
